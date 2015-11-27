@@ -1,0 +1,18 @@
+NUGET
+  remote: https://nuget.org/api/v2
+  specs:
+    Deedle (1.2.4)
+    Deedle.RPlugin (1.2.4)
+      Deedle (>= 1.2.4)
+      R.NET.Community (>= 1.6.4)
+      R.NET.Community.FSharp (>= 1.6.4)
+      RProvider (>= 1.1.13)
+    DynamicInterop (0.7.4)
+    R.NET.Community (1.6.4)
+      DynamicInterop (0.7.4)
+    R.NET.Community.FSharp (1.6.4)
+      R.NET.Community (>= 1.6.4)
+    RProvider (1.1.15)
+      DynamicInterop (0.7.4)
+      R.NET.Community (1.6.4)
+      R.NET.Community.FSharp (1.6.4)
