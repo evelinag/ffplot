@@ -5,6 +5,8 @@ based on compositional design of plots. Unfortunately, using it from F# can be
 sometimes cumbersome. To simplify using ggplot2 from F#, I put together a
 simple wrapper, ffplot.
 
+You can find more information on my [blog](http://evelinag.com/blog/2015/12-03-using-ggplot2-from-f/index.html).
+
 ## Requirements:
 To use ggplot2 from F#, you'll need the following tools:
 
